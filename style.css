@@ -1,0 +1,120 @@
+.firstline {
+    display: flex;
+    background: url(106006738_318443842497709_5430512476282787919_n.jpg);
+    background-size: cover;
+    width: 1358px;
+    height: 700px;
+    justify-content: center;
+}
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    border-left: 370px solid transparent;
+}
+.about-all {
+    font-family:sans-serif;
+}
+#aboutdv {
+    color: rgb(0,0,0);
+    margin-left: 1180px;
+}
+#aboutdv:hover {
+    color: blue;
+    transition: all 300ms ease-in-out;
+}
+#aboutdv:visited {
+    color: red;
+    transition: all 300ms ease-in-out;
+}
+#aboutdv:visited:hover {
+    color: blue;
+    transition: all 300ms ease-in-out;
+}
+.title {
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.para {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.noh {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.nafis-img img{
+    width: 30vw;
+}
+#nafis-default {
+    font-family: sans-serif;
+}
+#nafis-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+#nafis-para {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.rafat-img img{
+    width: 30vw;
+}
+#rafat-default {
+    font-family: sans-serif;
+}
+#rafat-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+#rafat-para {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.srijon-img img{
+    width: 30vw;
+}
+#srijon-default {
+    font-family: sans-serif;
+}
+#srijon-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+#srijon-para {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+#contact {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+#nafis-contact-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.nafis-contact-list {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+#rafat-contact-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.rafat-contact-list {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+#srijon-contact-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.srijon-contact-list {
+    font-family: sans-serif;
+    font-size: 16px;
+}
