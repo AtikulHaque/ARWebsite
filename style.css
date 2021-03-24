@@ -16,9 +16,16 @@
 .about-all {
     font-family:sans-serif;
 }
+
+.aboutdv-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
 #aboutdv {
     color: rgb(0,0,0);
-    margin-left: 1180px;
+    font-family: sans-serif;
 }
 #aboutdv:hover {
     color: blue;
